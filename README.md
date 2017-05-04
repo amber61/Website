@@ -3,22 +3,34 @@ Set up environment & configrations:
 
 
 Node will be used as:
-(1)Web server
+(1) Web server
 
-(2)Node web server will render HTML from React component which we write for front end
+(2) Node web server will render HTML from React component which we write for front end
 
-(3)Node API server:talk to database
+(3) Node API server:talk to database
 
 
 For Windows:
 
-1Install node and npm: download from https://nodejs.org/en/ and run installer. During the installer running, choose the npm install manager.
+1 Install node and npm: download from https://nodejs.org/en/ and run installer. During the installer running, choose the npm install    manager.
 
-2Test node version: node -v  
+2 Test node version: node -v  
 
- Test npm version: npm -v
+  Test npm version: npm -v
  
  
 3 In console type : npm init
 
-Create package.json file to store the general information and dependencies for project
+ Create package.json file to store the general information and dependencies for project
+
+4 Start documenting and insttalling dependencies
+
+(1) main dependencies: the packages our code will use as product
+
+   1.1 create node web server by using Express.js :
+   
+        npm install --save express
+        
+(2)dev dependencies : only use in local develop environment
+ 
+
