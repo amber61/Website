@@ -30,6 +30,13 @@ For Windows:
    1.1 create node web server by using Express.js :
    
         npm install --save express
+   1.2 create driver for connecting from node to Mongo
+   
+        npm i -S mongodb
+        
+   1.3 front end using react and react-dom:
+   
+        npm i -S react react-dom
         
 (2)dev dependencies : only use in local develop environment
  
