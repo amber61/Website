@@ -18,3 +18,7 @@ For Windows:
 
  Test npm version: npm -v
  
+ 
+3 In console type : npm init
+
+Create package.json file to store the general information and dependencies for project
