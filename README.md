@@ -11,7 +11,10 @@ Node will be used as:
 
 
 For Windows:
+
 1Install node and npm: download from https://nodejs.org/en/ and run installer. During the installer running, choose the npm install manager.
+
 2Test node version: node -v  
+
  Test npm version: npm -v
  
